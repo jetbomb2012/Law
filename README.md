@@ -12,22 +12,8 @@
 # 4.立法專屬 , 立意為公共之利益目的 , 況為憲法所明文!
 <a href="https://github.com/jetbomb2012/LAW
 .github.io/main/0075.zip" target="_blank">桃選會95年公開資訊(本站址:為權利保護必要,授權揭露不法之用)</a><br>
-<a href="https://github.com/jetbomb2012/un-justice
-.github.io/blob/main/0074.zip" target="_blank">隱匿王宗堂選委會職司選務監督公務身分(縣長及政黨主委代理人)及其不法無因管理政黨提名行為及公務員法, 行中法</a><br>
-<a href="https://github.com/jetbomb2012/un-justice
-.github.io/blob/main/0073.zip" target="_blank">檢察總長下命移轉管轄0073.zip</a><br>
-<a href="https://github.com/jetbomb2012/un-justice
-.github.io/blob/main/007.zip" target="_blank">顏大和等司法官弊案下載007.zip</a><br>
-<a href="https://github.com/jetbomb2012/un-justice
-.github.io/blob/main/0071.zip" target="_blank">不法管轄而為無效處分書狀0071.zip</a><br>
-<a href="https://github.com/jetbomb2012/un-justice
-.github.io/blob/main/0072.zip" target="_blank">最高行政法院0072.zip</a><br>
-<a href="https://github.com/jetbomb2012/un-justice
-.github.io/blob/main/0072.zip" target="_blank">監察院點名高院不移轉 0076.zip</a><br>
-<a href="https://github.com/jetbomb2012/un-justice
-.github.io/blob/main/0077.zip" target="_blank">憲法法庭回覆監察院0077.zip</a><br>
-<a href="https://github.com/jetbomb2012/un-justice
-.github.io/blob/main/0078.zip" target="_blank">憲法法庭未認事, 選舉無效之訴管轄程序違憲, (同時寄監察院供比對资料), 顯然規避聲請意旨!(為偽造書狀背書?有光碟者皆知)</a><br>
+
+
 # 聲明人: 彭恢華 ( 95年5月30日提告迄今, HTTP://111111.fun )
 # 案由: 95年選舉無效案 (檢、院皆隱匿要件)，經桃檢偵查隱匿選務人員身分行為
 # ，侵官並偽造不起訴書，經檢察總長詳查，命移轉管轄不從，後經刑訴10條向高等法院、
