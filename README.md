@@ -11,7 +11,7 @@
 # 3.未依專屬管轄,且無權處分, 竟積極侵官偽造書狀, 罪加一等!
 # 4.立法專屬 , 立意為公共之利益目的 , 況為憲法所明文!
 <a href="https://github.com/jetbomb2012/un-justice
-.github.io/blob/main/0075.zip" target="_blank">桃選會95年公開資訊(本站址:為權利保護必要,授權揭露不法之用)</a><br>
+.github.io/main/0075.zip" target="_blank">桃選會95年公開資訊(本站址:為權利保護必要,授權揭露不法之用)</a><br>
 <a href="https://github.com/jetbomb2012/un-justice
 .github.io/blob/main/0074.zip" target="_blank">隱匿王宗堂選委會職司選務監督公務身分(縣長及政黨主委代理人)及其不法無因管理政黨提名行為及公務員法, 行中法</a><br>
 <a href="https://github.com/jetbomb2012/un-justice
