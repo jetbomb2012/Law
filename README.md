@@ -1,6 +1,7 @@
 # 檔案資料已上傳(證據)
 <a href="https://111111.fun/0075.zip" target="_blank">桃選會95年公開資訊(NO.152)</a><br>
 <a href="https://111111.fun/0071.zip" target="_blank">96選偵6號(違法證據:包含再議等程序不法文件)</a><br>
+<a href="https://111111.fun/0071.zip" target="_blank">陳雪玉法官判決駁回</a><br>
 
 # 重案:
 # 桃園地檢署真敢行求被告王宗堂，不排除要檢察總長職位!
