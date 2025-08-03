@@ -1,5 +1,5 @@
 # 檔案資料已上傳(證據)
-<a href="https://github.com/jetbomb2012/LAW.github.io/main/0075.zip" target="_blank">桃選會95年公開資訊(本站址:為權利保護必要,授權揭露不法之用)</a><br>
+<a href="github.com/jetbomb2012/Law/blob/main/0075.zip" target="_blank">桃選會95年公開資訊(本站址:為權利保護必要,授權揭露不法之用)</a><br>
 
 # 重案:
 # 桃園地檢署真敢行求被告王宗堂，不排除要檢察總長職位!
