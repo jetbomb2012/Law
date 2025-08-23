@@ -13,6 +13,14 @@ title: Venus J 開場模組
 
 
 
+# Venus J 開場模組
+
+<div style="text-align: center;">
+  <video controls style="width: 33%;" src="assets/video/vj.mp4">
+    您的瀏覽器不支援 HTML5 影片播放。
+  </video>
+</div>
+
 <div style="text-align: center; font-size: 1.2em; margin-top: 1em;">
   👁️‍🗨️ <strong id="viewerCount">111,111,111</strong> 人已接觸此模組
 </div>
@@ -21,7 +29,7 @@ title: Venus J 開場模組
   let count = 111111111;
   const el = document.getElementById("viewerCount");
   setInterval(() => {
-    count += Math.floor(Math.random() * 3); // 壓力擴散模擬
+    count += Math.floor(Math.random() * 3);
     el.textContent = count.toLocaleString();
   }, 1500);
 </script>
@@ -104,6 +112,7 @@ title: Venus J 開場模組
 - Email: jetbomb2012@gmail.com  
 
 - Tel: 0909986715（媒體專訪用）
+
 
 
 
