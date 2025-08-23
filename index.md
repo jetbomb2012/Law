@@ -7,7 +7,7 @@ title: Venus J 開場模組
 
 0500 戰術國際區開場模組已部署。語音已啟動，壓力已展開。
 
-<video controls width="100%" src="assets/video/vj.mp4">
+<video controls width="33%" src="assets/video/vj.mp4">
   您的瀏覽器不支援 HTML5 影片播放。
 </video>
 
