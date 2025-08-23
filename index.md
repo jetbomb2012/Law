@@ -11,7 +11,7 @@ title: Venus J 開場模組
 3. 以上二群人手法如出一轍, 皆詐欺侵官生事行徑, 應由管轄法院(桃院選舉庭)認定之
 4. 本案王宗堂渠等及司法官長, 侵犯本人法益, 社會法益及國家法益, 犯行重大!
 
-# Venus J 開場模組
+
 
 <div style="text-align: center;">
   <video controls style="width: 33%;" src="assets/video/vj.mp4">
@@ -97,3 +97,4 @@ title: Venus J 開場模組
 - Email: jetbomb2012@gmail.com  
 
 - Tel: 0909986715（媒體專訪用）
+
