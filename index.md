@@ -3,26 +3,15 @@ layout: default
 title: Venus J 開場模組
 ---
 
-# 🎙️ 數字人主播模組：
-本案已東窗事發(2025/08/23)(簡言之:不對的人在不對的地方,當然違反法令)
-重點:王宗堂行使縣長權力 , 紊亂提名作業,侵害他人權力而無忌憚, 違選罷法控制政黨提名!
-1. 不釋出提名權:王宗堂(以縣長身分)玩提名, 做假評選不釋出提名,無權代理國民黨而違反選罷法!
-2. 不打算真辦案:柯怡如及顏大和隱匿王宗堂身分(王宗堂違法行使縣長權利, 干涉政黨提名作業)
-3. 以上二群人手法如出一轍, 皆詐欺侵官生事行徑, 應由管轄法院(桃院選舉庭)認定之
-4. 本案王宗堂渠等及司法官長, 侵犯本人法益, 社會法益及國家法益, 犯行重大!
+# 🎙️ 數字人主播模組：Venus J
 
+0500 戰術國際區開場模組已部署。語音已啟動，壓力已展開。
 
-
-<div style="text-align: center;">
-  <video width="100%" controls>
-  <source src="https://drive.google.com/file/d/165HOScx0tMlveUBahKir6L3KAQ8ssbhJ/view?usp=sharing">
+<video controls width="33%" src="assets/video/vj.mp4">
   您的瀏覽器不支援 HTML5 影片播放。
 </video>
-</div>
 
-
-
-
+---
 
 ## 📂 證據檔案連結
 
@@ -96,13 +85,4 @@ title: Venus J 開場模組
 ## 📞 聯絡方式
 
 - Email: jetbomb2012@gmail.com  
-
 - Tel: 0909986715（媒體專訪用）
-
-
-
-
-
-
-
-
