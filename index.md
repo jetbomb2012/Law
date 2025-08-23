@@ -8,7 +8,7 @@
 
 ## 🎙️ 數字人主播模組：Venus J
 
-0500 戰術國際區開場模組已部署。語音已啟動，壓力已展開。
+
 
 <div align="center">
   <video controls width="180" style="max-width:33%; height:auto;" src="assets/video/vj.mp4">
@@ -83,4 +83,5 @@
 
 - Email: jetbomb2012@gmail.com  
 - Tel: 0909986715（媒體專訪用）
+
 
