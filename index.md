@@ -19,20 +19,9 @@ title: Venus J 開場模組
   </video>
 </div>
 
-<div style="text-align: center; font-size: 1.2em; margin-top: 1em;">
-  👁️‍🗨️ <strong id="viewerCount">111,111,111</strong> 人已接觸此模組
-</div>
 
-<script>
-  let count = 111111111;
-  const el = document.getElementById("viewerCount");
-  setInterval(() => {
-    count += Math.floor(Math.random() * 3);
-    el.textContent = count.toLocaleString();
-  }, 1500);
-</script>
 
----
+
 
 ## 📂 證據檔案連結
 
@@ -106,4 +95,5 @@ title: Venus J 開場模組
 ## 📞 聯絡方式
 
 - Email: jetbomb2012@gmail.com  
+
 - Tel: 0909986715（媒體專訪用）
