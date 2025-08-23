@@ -14,7 +14,7 @@ title: Venus J 開場模組
 
 
 <div style="text-align: center;">
-  <video controls style="width: 33%;" src="assets/video/vj.mp4">
+  <video controls style="width: 33%;" src="[assets/video/vj.mp4](https://drive.google.com/file/d/165HOScx0tMlveUBahKir6L3KAQ8ssbhJ/view?usp=sharing)">
     您的瀏覽器不支援 HTML5 影片播放。
   </video>
 </div>
@@ -97,5 +97,6 @@ title: Venus J 開場模組
 - Email: jetbomb2012@gmail.com  
 
 - Tel: 0909986715（媒體專訪用）
+
 
 
