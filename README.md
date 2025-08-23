@@ -10,11 +10,10 @@
 
 0500 戰術國際區開場模組已部署。語音已啟動，壓力已展開。
 
-<video controls width="360">
-  <source src="assets/video/vj.mp4" type="video/mp4">
-  您的瀏覽器不支援影片播放。
-</video>
 
+<video controls width="100%" src="assets/video/vj.mp4" poster="assets/img/venusj_cover_0500.jpg">
+  您的瀏覽器不支援 HTML5 影片播放。
+</video>
 ---
 
 # 重案聲明
