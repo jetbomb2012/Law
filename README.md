@@ -11,7 +11,7 @@
 0500 戰術國際區開場模組已部署。語音已啟動，壓力已展開。
 
 <video controls width="360">
-  <source src="assets/video/venusj_intro_0500.mp4" type="video/mp4">
+  <source src="assets/video/vj.mp4" type="video/mp4">
   您的瀏覽器不支援影片播放。
 </video>
 
