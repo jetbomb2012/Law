@@ -10,7 +10,7 @@
 
 0500 戰術國際區開場模組已部署。語音已啟動，壓力已展開。
 
-<video controls width="280" style="max-width:100%; height:auto;" src="assets/video/vj.mp4">
+<video controls width="180" style="max-width:50%; height:auto;" src="assets/video/vj.mp4">
   您的瀏覽器不支援 HTML5 影片播放。
 </video>
 
