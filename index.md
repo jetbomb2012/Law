@@ -10,14 +10,14 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 24px;">
   <!-- 數字人主播影片 -->
-  <video controls width="180" style="max-width:33%; height:auto;" src="assets/video/vj.mp4">
+  <video controls width="180" style="max-width:33%; height:auto;" src="/assets/video/vj.mp4">
     您的瀏覽器不支援 HTML5 影片播放。
   </video>
 
   <!-- 圖片＋語音播放 -->
   <div style="text-align: center;">
     <img src="/assets/images/prosecutor.png" alt="Prosecutor" style="width:180px; height:auto; cursor:pointer;" onclick="document.getElementById('prosecutorAudio').play()" />
-    <audio id="prosecutorAudio" src="/assets/audio/images/prosecutor.mp3"></audio>
+    <audio id="prosecutorAudio" src="/assets/audio/prosecutor.mp3"></audio>
     <div style="font-size: 14px; margin-top: 6px;">🔊 點擊圖片播放語音</div>
   </div>
 </div>
@@ -34,3 +34,59 @@
 
 本案基礎事實為王宗堂選務身分行為不法，其他相關人員配合！  
 辦假案件之司法人員另有他不法意圖，故為不法！
+
+王宗堂違反組織法、公務員法、行政中立法、不法無因管理及選舉無效等情節，  
+被檢方隱匿王員身分行為，違反管轄權、侵官生事、侵害選舉法庭專屬權限，  
+偽造不起訴作結！司法官集體舞弊迄今，影響公共利益及權利保護必要性重大！
+
+---
+
+## 🔍 關鍵爭點
+
+1. 是否為掩飾或隱匿：是否被告為公務身分，依職權應正面表述，而非僅稱其非刑法上公務人員，故顯有匿飾情節！  
+2. 隱匿不法要件，欲達規避審判之目的，依民法第100、101條要件成立，應移送選舉法庭，並無法排除！  
+3. 未依專屬管轄，且無權處分，竟積極侵官偽造書狀，罪加一等！  
+4. 立法專屬，立意為公共利益目的，況為憲法所明文！
+
+---
+
+## 🧾 聲明人資訊
+
+聲明人：彭恢華（95年5月30日提告迄今）  
+網站：[http://111111.fun](http://111111.fun)  
+案由：95年選舉無效案（檢、院皆隱匿要件），經桃檢偵查隱匿選務人員身分行為，侵官並偽造不起訴書。  
+經檢察總長詳查，命移轉管轄不從，後經刑訴第10條向高等法院、最高法院聲明移轉仍續函轉桃檢，進而聲請憲法法庭解釋。  
+其未明係為基礎事實隱匿致影響專屬管轄，有護短之情避重而不答理。
+
+---
+
+## 🧱 四層不法結構
+
+1. 桃檢、高檢重大不法：故意、過失、不為真實陳述、詐欺等手段。  
+   隱匿王宗堂（縣長及桃縣黨部主委代理人）身分行為，阻斷他法院管轄權利保護（選舉法庭、民事、國賠等）。  
+2. 桃院交付審判三法官，依顏大和意見共同違法，違反選舉法庭合議管轄。  
+3. 高等法院、最高法院不受理案件，違憲：積極未依法令移轉，係為不法。  
+4. 最高法院檢察署未依職權撤銷不法管轄，續走顏大和手法裝瘋賣傻，未撤錯誤管轄。
+
+---
+
+## 🧨 一個護短
+
+憲法法庭未依法查明程序，縱容管轄違法。監察院皆有副本可參。
+
+---
+
+## 🧾 結語
+
+違反法規專屬案件管轄，其害公與私，效力為無，請大院查辦。  
+註：此與交付審判前置案件為刑案不同，況本案質為選舉無效專屬案。
+
+此致：監察院 VS 立法委 公鑑  
+中華民國一一二年三月二日（星期四） 彭恢華（附光碟證據）
+
+---
+
+## 📡 聯絡方式
+
+- Email: jetbomb2012@gmail.com  
+- Tel: 0909986715（媒體專訪用）
