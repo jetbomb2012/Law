@@ -7,13 +7,13 @@ title: 0500-war anchor module
 
 - [桃選會95年公開資訊(NO.152)](https://111111.fun/0075.zip)  
 - [96選偵6號（柯怡如及顏大和違法證據：包含再議等程序不法文件）](https://111111.fun/0071.zip)  
-- [陳雪玉法官判決駁回](https://111111.fun/0071.zip)
+- [陳雪玉法官判決駁回]
 
 ---
 
-## 🎙️ 數字人主播模組：Venus J
+## 🎙️ 數字人主播模組：華克尤 P
 
-0500 戰術國際區開場模組已部署。語音已啟動，壓力已展開。
+
 
 <div style="display: flex; justify-content: center; gap: 12px; align-items: center; margin-top:12px;">
   <video controls width="280" src="assets/video/vj.mp4" type="video/mp4"></video>
@@ -47,5 +47,6 @@ title: 0500-war anchor module
 王宗堂違反組織法、公務員法、行政中立法、不法無因管理及選舉無效等情節，  
 
 被檢方隱
+
 
 
