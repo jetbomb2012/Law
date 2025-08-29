@@ -6,9 +6,9 @@
 
 ---
 
-## 🎙️ 數字人主播模組：Venus J
+## 🎙️ 數字人主播模組：華克尤 P
 
-華克尤 P
+
 
 <div style="border:2px solid #222; padding:12px; margin-top:16px; background:#f9f9f9;">
   <div style="display:flex; gap:12px; flex-wrap:wrap;">
@@ -93,3 +93,4 @@
 - Email: jetbomb2012@gmail.com  
 
 - Tel: 0909986715（媒體專訪用）
+
