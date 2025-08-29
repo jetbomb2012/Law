@@ -18,7 +18,7 @@ title: 0500-war anchor module
 <div style="position: relative; width: 100%; height: 220px;">
 
   <!-- 左側影片 -->
-  <video controls width="180" src="assets/video/vj.mp4" type="video/mp4"
+  <video controls width="130" src="assets/video/vj.mp4" type="video/mp4"
          style="position: absolute; top: 0px; left: 0px;"></video>
 
   <!-- 中間圖像 -->
@@ -31,7 +31,7 @@ title: 0500-war anchor module
   </div>
 
   <!-- 右側影片 -->
-  <video controls width="180" src="assets/video/vj1.mp4" type="video/mp4"
+  <video controls width="280" src="assets/video/vj1.mp4" type="video/mp4"
          style="position: absolute; top: 0px; left: 400px;"></video>
 
 </div>
@@ -55,6 +55,7 @@ title: 0500-war anchor module
 王宗堂違反組織法、公務員法、行政中立法、不法無因管理及選舉無效等情節，  
 
 被檢方隱
+
 
 
 
