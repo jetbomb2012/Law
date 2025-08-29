@@ -18,7 +18,7 @@ title: 96選偵6號弊案
 <div style="position: relative; width: 100%; height: 240px;">
 
   <!-- 左側影片 -->
-  <video controls width="180" src="assets/video/vj.mp4" type="video/mp4"
+  <video controls width="120" src="assets/video/vj.mp4" type="video/mp4"
          style="position: absolute; top: 0px; left: 0px;"></video>
 
   <!-- 中間圖像 -->
@@ -31,7 +31,7 @@ title: 96選偵6號弊案
 
   <!-- 右側影片 + 假處分文字 -->
   <div style="position: absolute; top: 0px; left: 400px; text-align: center;">
-    <video controls width="180" src="assets/video/vj1.mp4" type="video/mp4"></video>
+    <video controls width="280" src="assets/video/vj1.mp4" type="video/mp4"></video>
     <div style="font-size: 13px; color: #222; margin-top: 4px;">🧾 聲明假處分</div>
   </div>
 
@@ -54,6 +54,7 @@ title: 96選偵6號弊案
 王宗堂違反組織法、公務員法、行政中立法、不法無因管理及選舉無效等情節，  
 
 被檢方隱
+
 
 
 
