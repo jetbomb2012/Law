@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 0500-war anchor module
+title: 96選偵6號弊案
 ---
 
 # 📁 檔案資料已上傳（證據）
@@ -55,6 +55,7 @@ title: 0500-war anchor module
 王宗堂違反組織法、公務員法、行政中立法、不法無因管理及選舉無效等情節，  
 
 被檢方隱
+
 
 
 
