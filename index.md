@@ -6,18 +6,20 @@
 
 ---
 
-## 🎙️ 數字人主播模組：Venus J
+## 🎙️ 數字人主播：華克尤 Press
 
-0500 戰術國際區開場模組已部署。語音已啟動，壓力已展開。
 
-<video controls width="180" style="max-width:33%; height:auto;" src="assets/video/vj.mp4">
-  您的瀏覽器不支援 HTML5 影片播放。
-</video>
+
+<div align="center">
+  <video controls width="180" style="max-width:33%; height:auto;" src="assets/video/vj.mp4">
+    您的瀏覽器不支援 HTML5 影片播放。
+  </video>
+</div>
 
 ---
 
 # ⚖️ 重案聲明
-
+當司法官了解或認識到王宗堂代表縣長執行職務時, 是破案的時候! 但目前無人認識到這點!
 桃園地檢署真敢行求被告王宗堂，不排除要檢察總長職位！  
 媒體專線：TEL:0909986715 Email: jetbomb2012@gmail.com（先行）  
 桃園地檢署與桃園地方法院有操作選舉案件之情況！  
@@ -81,3 +83,10 @@
 
 - Email: jetbomb2012@gmail.com  
 - Tel: 0909986715（媒體專訪用）
+
+
+
+
+
+
+；
