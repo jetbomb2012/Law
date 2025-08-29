@@ -15,10 +15,10 @@ title: 96選偵6號弊案
 
 
 
-<div style="position: relative; width: 100%; height: 220px;">
+<div style="position: relative; width: 100%; height: 240px;">
 
   <!-- 左側影片 -->
-  <video controls width="100" src="assets/video/vj.mp4" type="video/mp4"
+  <video controls width="180" src="assets/video/vj.mp4" type="video/mp4"
          style="position: absolute; top: 0px; left: 0px;"></video>
 
   <!-- 中間圖像 -->
@@ -26,18 +26,16 @@ title: 96選偵6號弊案
     <img src="assets/images/prosecutor.png" alt="Prosecutor Image" width="180"
          onclick="document.getElementById('prosecutor-audio').play()" style="cursor: pointer;">
     <audio id="prosecutor-audio" src="assets/audio/prosecutor.mp3" type="audio/mpeg"></audio>
-    
-    <div style="font-size: 13px; color: #555;">📢 點擊圖像播放音訊</div>
+    <div style="font-size: 13px; color: #555; margin-top: 4px;">📢 點擊圖像播放音訊</div>
   </div>
 
-  <!-- 右側影片 -->
-  <video controls width="280" src="assets/video/vj1.mp4" type="video/mp4"
-         style="position: absolute; top: 0px; left: 400px;"></video>
-  <div style="font-size: 13px; color: #222; margin-top: 4px;">🧾 聲明假處分</div>
+  <!-- 右側影片 + 假處分文字 -->
+  <div style="position: absolute; top: 0px; left: 400px; text-align: center;">
+    <video controls width="180" src="assets/video/vj1.mp4" type="video/mp4"></video>
+    <div style="font-size: 13px; color: #222; margin-top: 4px;">🧾 聲明假處分</div>
+  </div>
 
 </div>
-
-
 
 
 
@@ -56,6 +54,7 @@ title: 96選偵6號弊案
 王宗堂違反組織法、公務員法、行政中立法、不法無因管理及選舉無效等情節，  
 
 被檢方隱
+
 
 
 
