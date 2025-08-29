@@ -1,29 +1,18 @@
 # 📁 檔案資料已上傳（證據）
 
-- [桃選會95年公開資訊(NO.152)](https://111111.fun/0075.zip)  
-- [96選偵6號（柯怡如及顏大和違法證據：包含再議等程序不法文件）](https://111111.fun/0071.zip)  
+- [桃選會95年公開資訊(NO.152)](https://111111.fun/0075.zip)
+- [96選偵6號（柯怡如及顏大和違法證據：包含再議等程序不法文件）](https://111111.fun/0071.zip)
 - [陳雪玉法官判決駁回](https://111111.fun/0071.zip)
 
 ---
 
-## 🎙️ 數字人主播模組：華克尤 P
+## 🎙️ 數字人主播模組：Venus J
 
+0500 戰術國際區開場模組已部署。語音已啟動，壓力已展開。
 
-
-<div style="border:2px solid #222; padding:12px; margin-top:16px; background:#f9f9f9;">
-  <div style="display:flex; gap:12px; flex-wrap:wrap;">
-    <video controls width="180" style="max-width:33%; height:auto;" src="assets/video/vj.mp4">
-      您的瀏覽器不支援 HTML5 影片播放。
-    </video>
-    <img src="assets/images/prosecutor.png" alt="檢察官圖像" style="max-width:33%; height:auto;">
-  </div>
-
-  <p style="margin-top:12px;">🔊 點選播放檢察官語音：</p>
-  <audio controls style="width:100%; max-width:480px;">
-    <source src="assets/audio/prosecutor.mp3" type="audio/mpeg">
-    您的瀏覽器不支援音訊播放。
-  </audio>
-</div>
+<video controls width="180" style="max-width:33%; height:auto;" src="assets/video/vj.mp4">
+  您的瀏覽器不支援 HTML5 影片播放。
+</video>
 
 ---
 
@@ -91,6 +80,4 @@
 ## 📡 聯絡方式
 
 - Email: jetbomb2012@gmail.com  
-
 - Tel: 0909986715（媒體專訪用）
-
