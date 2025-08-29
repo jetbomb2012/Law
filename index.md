@@ -17,6 +17,13 @@
   <img src="assets/images/prosecutor.png" alt="檢察官圖像" style="max-width:33%; height:auto;">
 </div>
 
+🔊 點選播放檢察官語音：
+
+<audio controls style="width:100%; max-width:480px;">
+  <source src="assets/audio/prosecutor.mp3" type="audio/mpeg">
+  您的瀏覽器不支援音訊播放。
+</audio>
+
 ---
 
 # ⚖️ 重案聲明
@@ -75,12 +82,4 @@
 違反法規專屬案件管轄，其害公與私，效力為無，請大院查辦。  
 註：此與交付審判前置案件為刑案不同，況本案質為選舉無效專屬案。
 
-此致：監察院 VS 立法委 公鑑  
-中華民國一一二年三月二日（星期四） 彭恢華（附光碟證據）
-
----
-
-## 📡 聯絡方式
-
-- Email: jetbomb2012@gmail.com  
-- Tel: 0909986715（媒體專訪用）
+此致：監察院 VS 立法
