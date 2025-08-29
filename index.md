@@ -17,7 +17,7 @@ title: 0500-war anchor module
 
 <div style="display: flex; justify-content: center; gap: 12px; align-items: center; margin-top:12px;">
   <video controls width="180" src="assets/video/vj.mp4" type="video/mp4"></video>
-  <video controls width="180" src="assets/video/vj1.mp4" type="video/mp4"></video>
+  <video controls width="360" src="assets/video/vj1.mp4" type="video/mp4"></video>
   <div style="position: relative; width: 180px;">
     <img src="assets/images/prosecutor.png" alt="Prosecutor Image" width="180" onclick="document.getElementById('prosecutor-audio').play()" style="cursor: pointer;">
     <audio id="prosecutor-audio" src="assets/audio/prosecutor.mp3" type="audio/mpeg"></audio>
@@ -37,4 +37,5 @@ title: 0500-war anchor module
 辦假案件之司法人員另有他不法意圖，故為不法！
 
 王宗堂違反組織法、公務員法、行政中立法、不法無因管理及選舉無效等情節，  
+
 被檢方隱
