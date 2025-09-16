@@ -52,7 +52,8 @@ title: 96選偵6號弊案
 辦假案件之司法人員另有他不法意圖，故為不法！
 
 王宗堂違反組織法、公務員法、行政中立法、不法無因管理及選舉無效等情節
-<a href="mailto:media@111111.fun">媒體聯絡：media@111111.fun</a>
+<a href="mailto:bensonjack@yahoo">媒體聯絡：bensonjack@yahoo.com</a>
+
 
 
 
