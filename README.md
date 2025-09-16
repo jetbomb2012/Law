@@ -75,6 +75,9 @@
 此致：監察院 VS 立法委 公鑑  
 中華民國一一二年三月二日（星期四） 彭恢華（附光碟證據）
 
+<a href="mailto:media@111111.fun">媒體聯絡：bensonjack@yahoo.com</a>
+
+
 ---
 
 ## 📡 聯絡方式
