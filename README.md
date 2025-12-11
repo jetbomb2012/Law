@@ -9,16 +9,17 @@
 
 ## 🎙️ 數字人主播模組：Venus J
 
-https://youtube.com/shorts/5qL5kvoti40?feature=share
-0500 戰術國際區開場模組已部署。語音已啟動，壓力已展開。
+
 
 <video controls width="180" style="max-width:33%; height:auto;" src="assets/video/vj.mp4">
   您的瀏覽器不支援 HTML5 影片播放。
 </video>
-
+世紀大案( 司法官求官記 ): https://youtube.com/shorts/5qL5kvoti40?feature=share
 ---
 
 # ⚖️ 重案聲明
+
+世紀大案( 司法官求官記 ): https://youtube.com/shorts/5qL5kvoti40?feature=share
 ---檢察官及法官發現王宗堂身分即應停止偵查(刑訴261條),起訴於桃院選舉法庭(憲法132),捨近而求遠!不但不交出案件於桃院, 竟違反刑訴程序予以不起訴處分!違法情節重大!況違法而作, 均在無效之列!(刑訴260條)
 
 桃園地檢署真敢行求被告王宗堂，不排除要檢察總長職位！  
