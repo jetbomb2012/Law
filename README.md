@@ -1,5 +1,7 @@
 # 📁 檔案資料已上傳（證據）
 
+世紀大案( 司法官求官記 ): https://youtube.com/shorts/5qL5kvoti40?feature=share
+
 世紀大案( 司法官求官記 ): https://youtube.com/shorts/5qL5kvoti40?feature=share 
 
 - [桃選會95年公開資訊(NO.152)](https://111111.fun/0075.zip)
@@ -8,6 +10,8 @@
 
 
 ## 🎙️ 數字人主播模組：Venus J
+
+世紀大案( 司法官求官記 ): https://youtube.com/shorts/5qL5kvoti40?feature=share
 
 
 
@@ -18,6 +22,8 @@
 ---
 
 # ⚖️ 重案聲明
+
+世紀大案( 司法官求官記 ): https://youtube.com/shorts/5qL5kvoti40?feature=share
 
 世紀大案( 司法官求官記 ): https://youtube.com/shorts/5qL5kvoti40?feature=share
 ---檢察官及法官發現王宗堂身分即應停止偵查(刑訴261條),起訴於桃院選舉法庭(憲法132),捨近而求遠!不但不交出案件於桃院, 竟違反刑訴程序予以不起訴處分!違法情節重大!況違法而作, 均在無效之列!(刑訴260條)
@@ -37,6 +43,7 @@
 ---
 
 ## 🔍 關鍵爭點
+世紀大案( 司法官求官記 ): https://youtube.com/shorts/5qL5kvoti40?feature=share
 
 1. 是否為掩飾或隱匿：是否被告為公務身分，依職權應正面表述，而非僅稱其非刑法上公務人員，故顯有匿飾情節！  
 2. 隱匿不法要件，欲達規避審判之目的，依民法第100、101條要件成立，應移送選舉法庭，並無法排除！  
