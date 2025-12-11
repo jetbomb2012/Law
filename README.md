@@ -7,6 +7,7 @@
 
 ## 🎙️ 數字人主播模組：Venus J
 
+https://youtube.com/shorts/5qL5kvoti40?feature=share
 0500 戰術國際區開場模組已部署。語音已啟動，壓力已展開。
 
 <video controls width="180" style="max-width:33%; height:auto;" src="assets/video/vj.mp4">
