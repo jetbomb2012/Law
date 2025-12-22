@@ -3,7 +3,7 @@
 
 🎥 世紀大案（司法官求官記）  
 https://youtube.com/shorts/5qL5kvoti40?feature=share
-https://judicialai-d6ijkbbe.manus.space (司法官弊案手法分析)
+
 ---
 
 ## 📦 相關證據檔案
@@ -35,6 +35,7 @@ https://youtube.com/shorts/5qL5kvoti40?feature=share
 
 媒體專線：0909-986-715  
 Email：jetbomb2012@gmail.com
+https://judicialai-d6ijkbbe.manus.space (司法官弊案手法分析)
 
 桃園地檢署與桃園地方法院有操作
 - Tel: 0909986715（媒體專訪用）
