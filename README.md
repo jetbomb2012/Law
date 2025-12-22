@@ -11,7 +11,7 @@ https://youtube.com/shorts/5qL5kvoti40?feature=share
 - [96選偵6號（柯怡如及顏大和違法證據：包含再議等程序不法文件）](https://111111.fun/0071.zip)
 - [陳雪玉法官判決駁回](https://111111.fun/0071.zip)
 
-🔗 [司法官掦敝網入口](https://judicialai-d6ijkbbe.manus.space)
+🔗 [司法官掦弊網入口](https://judicialai-d6ijkbbe.manus.space)
 
 ---
 
