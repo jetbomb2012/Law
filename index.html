@@ -69,4 +69,98 @@
       background: #49d269; box-shadow: 0 0 6px #49d269ad;
     }
     .screen iframe, .screen video {
-      width: 100%; height: calc
+      width: 100%; height: calc(100% - 28px); border: 0;
+    }
+    .fallback {
+      position: absolute; inset: 28px 0 0 0;
+      display: flex; align-items: center; justify-content: center;
+      padding: 12px; text-align: center; color: #555;
+      background: rgba(0,0,0,.05);
+    }
+    .fallback a { color: #0645ad; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>【司法官裝睡二十年，本頁公開叫醒】人民有參選權利...</h1>
+    <section class="card">
+      <h1><p>一. 揭露黨.政不分...<br>二. 揭露司法官是非不分...</p></h1> 
+    </section>
+
+    <section>
+      <h2>🎥 世紀大案影片</h2>
+      <p><a href="https://youtube.com/shorts/5qL5kvoti40?feature=share" target="_blank">觀看影片</a></p>
+      <video controls><source src="img/2introyours.mp4" type="video/mp4"></video>
+      <video controls><source src="img/fu1.mp4" type="video/mp4"></video>
+      <video controls><source src="img/col.mp4" type="video/mp4"></video>
+      <video controls><source src="img/co.mp4" type="video/mp4"></video>
+      <img src="img/slave2.jpeg" alt="slave2">
+    </section>
+
+    <!-- 新增四畫面電視牆 -->
+    <section>
+      <h2>🖥️ 古堡四畫面電視牆</h2>
+      <div class="screens">
+        <!-- 畫面 A -->
+        <section class="screen" aria-label="畫面A">
+          <header><span class="title">載入中...</span><span class="light"></span></header>
+          <iframe src=""></iframe>
+          <div class="fallback"><p>無法嵌入 <strong id="siteNameA">網站</strong></p><p><a id="siteLinkA" href="#">外開</a></p></div>
+        </section>
+
+        <!-- 畫面 B -->
+        <section class="screen" aria-label="畫面B">
+          <header><span class="title">載入中...</span><span class="light"></span></header>
+          <iframe src=""></iframe>
+          <div class="fallback"><p>無法嵌入 <strong id="siteNameB">網站</strong></p><p><a id="siteLinkB" href="#">外開</a></p></div>
+        </section>
+
+        <!-- 畫面 C -->
+        <section class="screen" aria-label="畫面C">
+          <header><span class="title">影片 C</span><span class="light"></span></header>
+          <video controls autoplay loop muted>
+            <source id="videoSourceC" src="" type="video/mp4">
+          </video>
+        </section>
+
+        <!-- 畫面 D -->
+        <section class="screen" aria-label="畫面D">
+          <header><span class="title">影片 D</span><span class="light"></span></header>
+          <video controls autoplay loop muted>
+            <source id="videoSourceD" src="" type="video/mp4">
+          </video>
+        </section>
+      </div>
+    </section>
+
+    <!-- 其它原有段落保留 -->
+    <section><h2>🎥AI審判系統建置中</h2><p><a href="https://aijustice-favgtytr.manus.space/" target="_blank">AI審判系統</a></p></section>
+    <section><h2>🎥揭露司法官弊案平台</h2><p><a href="https://judicialai-d6ijkbbe.manus.space/" target="_blank">揭露司法官弊案平台</a></p></section>
+    <section><h2>📦 相關證據檔案</h2><ul><li><a href="0075.zip">桃選會95年公開資訊</a></li></ul></section>
+    <section><h2>📞 聯絡方式</h2><ul><li>Email：<a href="mailto:jetbomb2012@gmail.com">jetbomb2012@gmail.com</a></li></ul></section>
+  </main>
+
+  <!-- 四畫面輪播腳本 -->
+  <script>
+    const sitesA = ["https://5711438.fun","https://foxokiso.xyz"];
+    const sitesB = ["https://28825252.xyz","http://pk530.fun"];
+    const videosC = ["img/2introyours.mp4","img/fu1.mp4"];
+    const videosD = ["img/col.mp4","img/co.mp4"];
+
+    const today = new Date();
+    const dayNumber = Math.floor(today.getTime() / (1000*60*60*24));
+
+    // 畫面 A
+    const siteIndexA = dayNumber % sitesA.length;
+    document.querySelector('[aria-label="畫面A"] iframe').src = sitesA[siteIndexA];
+    document.getElementById("siteNameA").innerText = sitesA[siteIndexA];
+    document.getElementById("siteLinkA").href = sitesA[siteIndexA];
+
+    // 畫面 B
+    const siteIndexB = dayNumber % sitesB.length;
+    document.querySelector('[aria-label="畫面B"] iframe').src = sitesB[siteIndexB];
+    document.getElementById("siteNameB").innerText = sitesB[siteIndexB];
+    document.getElementById("siteLinkB").href = sitesB[siteIndexB];
+
+    // 畫面 C
+
